@@ -1,9 +1,9 @@
 # customer_segmentation_with_RFM
-## 1. Business Problem
+## Business Problem
 
  FLO company (Retail) customers will be segmented using RFM. Customers' behaviors will be defined and groups will be formed according to these behavioral clusters. In this way, segment-specific marketing strategies can be determined.
 
-## 2. About Dataset
+## About Dataset
 
  The data set consists of information obtained from the past shopping behavior of customers who made their last purchases as OmniChannel (both online and offline shoppers) in 2020 - 2021.
 
